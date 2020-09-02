@@ -103,7 +103,11 @@ body.page-template-page-fullsingle-me {
   letter-spacing: -0.5px;
   color: #999999;
   color: #fff;
+<<<<<<< HEAD
   background-image: url("../../images/leopard.jpg");
+=======
+  background-image: url("../../images/hur.jpg");
+>>>>>>> parent of eb120b6... bild_geändert
   background-position: center center;
   background-size: cover; }
   body.page-template-page-fullsingle-me p {
